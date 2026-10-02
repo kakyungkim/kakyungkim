@@ -2,7 +2,7 @@
 
 **From specimen to clinical decision.** I design and operate genomics analysis that ends up in reports and services a hospital actually uses, and I measure how far those results can be trusted.
 
-Chief Researcher and Head of Diagnosis Division at **Cytogen** — CTC-based liquid biopsy, Seoul, Korea.
+Chief Researcher, Diagnosis Division, **Cytogen** — CTC-based liquid biopsy, Seoul, Korea.
 
 `20+ years` omics and clinical data &nbsp;·&nbsp; `20+` peer-reviewed papers &nbsp;·&nbsp; `7` institutions and companies &nbsp;·&nbsp; `4` degrees across computer science, life science, and molecular medicine
 
