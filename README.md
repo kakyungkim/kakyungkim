@@ -6,7 +6,7 @@ Chief Researcher, Diagnosis Division, **Cytogen** — CTC-based liquid biopsy, S
 
 `20+ years` omics and clinical data &nbsp;·&nbsp; `20+` peer-reviewed papers &nbsp;·&nbsp; `7` institutions and companies &nbsp;·&nbsp; `4` degrees across computer science, life science, and molecular medicine
 
-[Portfolio](https://kakyungkim.github.io) · [Blog](https://kakyungkim.github.io/en/) · [CV](https://kakyungkim.github.io/assets/home/KaKyung-Kim-CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=jSjoINAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/kakyungkim/) · <kakyung.kim@gmail.com>
+[Portfolio](https://kakyungkim.github.io) · [Blog](https://kakyungkim.github.io/en/) · [CV](https://kakyungkim.github.io/assets/home/KaKyung-Kim-CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=jSjoINAAAAAJ) · [ORCID](https://orcid.org/0009-0001-9380-597X) · [LinkedIn](https://www.linkedin.com/in/kakyungkim/) · <kakyung.kim@gmail.com>
 
 ---
 
@@ -29,7 +29,7 @@ Chief Researcher, Diagnosis Division, **Cytogen** — CTC-based liquid biopsy, S
 | 2022 | [GWAS identifies TNFSF15 associated with childhood asthma](https://doi.org/10.1111/all.14952) | *Allergy* 77(1):218 | Co-author |
 | 2021 | [Genetic features of gastric mixed adenoneuroendocrine carcinomas](https://doi.org/10.1002/path.5556) | *Journal of Pathology* 253(1):94 | Co-author |
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=jSjoINAAAAAJ) and the [portfolio](https://kakyungkim.github.io/#publications). Three manuscripts in preparation.
+Full list on [Google Scholar](https://scholar.google.com/citations?user=jSjoINAAAAAJ), [ORCID](https://orcid.org/0009-0001-9380-597X), and the [portfolio](https://kakyungkim.github.io/#publications). Three manuscripts in preparation.
 
 ### What I build
 
